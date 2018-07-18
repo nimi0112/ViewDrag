@@ -10,7 +10,7 @@ import android.view.ViewGroup;
 
 /**
  * A simple {@link Fragment} subclass.
- */a
+ */
 public class BlankFragment extends Fragment {
 
 
